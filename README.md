@@ -2,4 +2,4 @@
 
 <b>O que é forkbomb?</b>
 <p>Código que se autoreplica, consumindo assim mais recursos de memória, de processamento, etc.</p>
-<p>Os recursos do sistema se inesgota, e causa lentidão e somente com a reinicialização do sistema para corrigir.</p>
+<p>Os recursos do sistema se esgota, e causa lentidão e somente com a reinicialização do sistema para corrigir.</p>
