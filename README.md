@@ -1,4 +1,4 @@
-<h1>FORK BOMB in C</h1>
+<h1>FORK BOMB with C</h1>
 
 <b>O que é forkbomb?</b>
 <p>Código que se autoreplica, consumindo assim mais recursos de memória, de processamento, etc.</p>
